@@ -1,0 +1,23 @@
+{
+  "name": "Santana-2000",
+  "version": "1.0.0",
+  "description": "canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxw2/Santana-2000.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxw2/Santana-2000/issues"
+  },
+  "homepage": "https://github.com/maxw2/Santana-2000#readme",
+  "devDependencies": {
+    "webpack": "^5.3.2"
+  }
+}
